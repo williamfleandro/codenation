@@ -1,10 +1,11 @@
-#App-EDA para Analise exploratória de Dados
+##App-EDA para Analise exploratória de Dados
+Link: https://afternoon-lake-97607.herokuapp.com/
 
 * É um app simples usando Python e Streamlit com deploy no Heroku ele terá evolução para versão 1.0.1.
 
-## Objetivo do App lê qualquer base de dados em CSV e fazer algumas visualizações iniciais de analise exploratória de dados, mostrando colunas com valores nulos, media, moda, median, desvio padrão entre outras funções estátisticas.
+## Objetivo do App é lê qualquer base de dados em CSV e fazer algumas visualizações iniciais de analise exploratória de dados, mostrando colunas com valores nulos, media, moda, median, desvio padrão entre outras funções estátisticas.
 
-* Terá acesso a gráficos histograma, Boxplot e Densidade.
+* Terá acesso a gráficos como histograma, Boxplot e Densidade.
 
 * Aproveitem
 
